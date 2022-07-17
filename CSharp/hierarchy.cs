@@ -1,5 +1,6 @@
 Dog miPerrito = new Dog("Canela", AnimalSex.Female, 40.2f, 12.5f, "All American Dog");
 Console.WriteLine(miPerrito.getDescription());
+//My dog is an All American Dog, it name is Canela, it's 40.2cm tall and weighs 12.5kg.
 
 public enum AnimalSex
 {
